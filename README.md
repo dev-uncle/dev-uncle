@@ -1,12 +1,6 @@
 <!-- Header -->
-<h1 align="center">Hi 👋, I'm Brian</h1>
-<h3 align="center">Full-Stack Developer | React • Next.js • Electron</h3>
-
-<p align="center">
-  <a href="https://github.com/dev-uncle">
-    <img src="https://komarev.com/ghpvc/?username=dev-uncle&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
+<h1 align="center">Hi, I'm Uncledev</h1>
+<h3 align="center">Full-Stack Developer</h3>
 
 ---
 
